@@ -2,19 +2,13 @@
 
 https://git-scm.com
 
-## Install - macOS
-
-Installed in `/usr/bin`
-
-[xcode.md](/services/xcode/xcode.md)
-
 ## Signatures
 
 https://docs.github.com/en/authentication/managing-commit-signature-verification
 
-### Signatures on macOS
+### Install
 
-[gpg.md](/services/gpg/gpg.md)
+[gpg-install-macos.md](/services/gpg/gpg-install-macos.md)
 
 ### Generate
 
@@ -82,9 +76,11 @@ git config --global commit.gpgsign true
 git config --global tag.gpgsign true
 ```
 
-### Set program
+### Set signing program
 
-Only do this if the gpg command is not in PATH
+Only do this if you need to manually specify which `gpg` command or program to use.
+
+On macOS, do not configure the signing program.
 
 ```sh
 git config --global gpg.program _INSERT_SIGNING_PROGRAM
