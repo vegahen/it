@@ -1,0 +1,4 @@
+All official taps and commands are trusted.
+Trusted formulae:
+  openai/tools/softnet
+  openai/tools/tart

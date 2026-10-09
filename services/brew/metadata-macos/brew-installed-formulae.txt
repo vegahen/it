@@ -22,3 +22,5 @@ npth
 p11-kit
 pinentry
 readline
+softnet
+tart
