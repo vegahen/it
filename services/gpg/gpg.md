@@ -1,3 +1,0 @@
-# GnuPG
-
-https://gnupg.org

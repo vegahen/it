@@ -2,13 +2,17 @@
 
 https://git-scm.com
 
+## Install
+
+[git-install-macos.md](/services/git/git-install-macos.md)
+
 ## Signatures
 
 https://docs.github.com/en/authentication/managing-commit-signature-verification
 
-### Install
+### Install GnuPG
 
-[gpg-install-macos.md](/services/gpg/gpg-install-macos.md)
+[gnupg.md](/services/gpg/gnupg.md)
 
 ### Generate
 
