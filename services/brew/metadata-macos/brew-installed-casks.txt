@@ -1,1 +1,4 @@
+firefox
+google-chrome
+qobuz
 visual-studio-code
